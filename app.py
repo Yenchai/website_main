@@ -1,4 +1,4 @@
-from application.application import app, render_template, request, url_for
+from application.application import app, render_template, request
 import openai
 import os
 
